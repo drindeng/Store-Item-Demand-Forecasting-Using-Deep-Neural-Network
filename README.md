@@ -1,4 +1,4 @@
-# Store-Item-Demand-Forecasting-Using-Deep-Neural-Network
+# Sales forecasting for multi-product multi-store retail using Deep Neural Networks
 
 **Dataset:** https://www.kaggle.com/competitions/demand-forecasting-kernels-only/data
 
